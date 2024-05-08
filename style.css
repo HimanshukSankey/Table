@@ -1,0 +1,14 @@
+.dataRow{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+
+    border: 1px solid black;
+    padding: 0 3px;
+}
+td{
+    border: 1px solid black;
+}
